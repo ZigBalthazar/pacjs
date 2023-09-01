@@ -1,0 +1,15 @@
+comment:
+  layout: header, changes, diff, sunburst
+coverage:
+  status:
+    patch:
+      default:
+        threshold: "10%"
+
+    project:
+      default:
+        target: auto
+        threshold: "10%"
+
+ignore:
+  - "dist/*"

@@ -1,0 +1,22 @@
+{
+  "name": "pacjs",
+  "version": "1.0.0",
+  "description": "SDK for Pactus Blockchain",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZigBalthazar/pacjs.git"
+  },
+  "keywords": [
+    "pactus" ,"SDK" ,"Blockchain"
+  ],
+  "author": "Zig Balthazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZigBalthazar/pacjs/issues"
+  },
+  "homepage": "https://github.com/ZigBalthazar/pacjs#readme"
+}
